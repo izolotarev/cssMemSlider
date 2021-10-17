@@ -154,40 +154,21 @@ input[type='radio']:checked + label.btn:hover {
                 MEDIA QUERIES
 =======================================================================================*/
 
-@media only screen and (max-width: 750px) {
+@media only screen and (max-width: 420px) {
   .slide-wrapper {
-    width: 90%;
-    height: 100%;
+    width: 100%;
   }
-  .btn:nth-of-type(1) {
-    left: 93%;
-    bottom: 60%;
-  }
-  .btn:nth-of-type(2) {
-    left: 93%;
-    bottom: 50%;
-  }
-  .btn:nth-of-type(3) {
-    left: 93%;
-    bottom: 40%;
-  }
-  .btn:nth-of-type(4) {
-    left: 93%;
-    bottom: 30%;
-  }
-}
 
-@media only screen and (max-width: 450px) {
   .btn:nth-of-type(1) {
-    left: 91%;
+    left: 34%;
   }
   .btn:nth-of-type(2) {
-    left: 91%;
+    left: 44%;
   }
   .btn:nth-of-type(3) {
-    left: 91%;
+    left: 54%;
   }
   .btn:nth-of-type(4) {
-    left: 91%;
+    left: 64%;
   }
 }
