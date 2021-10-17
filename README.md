@@ -2,4 +2,6 @@
 
 https://izolotarev.github.io/cssMemSlider/cssMemSlider/index.html
 
-Author: Igor Zolotarev, 2021
+Author: Igor Zolotarev
+
+2021
